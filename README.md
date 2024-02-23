@@ -1,4 +1,4 @@
-# Stroke Prediction Project
+# Stroke Prediction (Heart Disease)
 
 ## Overview
 
